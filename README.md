@@ -9,7 +9,7 @@ Dataset 2 (Motor Vehicle Collisions - Crashes data): obtained from https://data.
 All datasets are stored in **S3 public bucket "infoach-final-project-group1"** on AWS cloud.
 
 ## AWS Architecture
-![Architecture](https://github.com/xiaolancara/AWS-Final-Project/blob/main/InteriumDocuments/Final%20Project%20AWS%20Architechture%20work%20flow.png)
+![Architecture](https://github.com/Jatin6004/Group1_Final_Project/blob/main/Documents/Final%20Project%20AWS%20Architechture%20work%20flow.png)
 
 ## Using following AWS services to implement the whole project:
 **S3, RDS, VPC, IAM, PythonScripts**
@@ -18,10 +18,6 @@ All datasets are stored in **S3 public bucket "infoach-final-project-group1"** o
 This is the [Fianl Project Report](https://github.com/xiaolancara/AWS-Final-Project/blob/main/InteriumDocuments/Final%20Project%20Report.pdf)
 
 This is the [Presentation File](https://github.com/xiaolancara/AWS-Final-Project/blob/main/InteriumDocuments/Final%20Project%20Presentation.pdf)
-## ER Diagram
-**Data Resources:**
-
-![Data Resource](https://github.com/xiaolancara/AWS-Final-Project/blob/main/InteriumDocuments/Resource%20ER.png)
 
 
 **Data WareHouse:**
@@ -29,4 +25,4 @@ This is the [Presentation File](https://github.com/xiaolancara/AWS-Final-Project
 ![Data WareHouse](https://github.com/xiaolancara/AWS-Final-Project/blob/main/InteriumDocuments/Data%20Warehouse%20ER.png)
 
 ## Tableau Analysis
-This is the link to [Tableau DashBoard](https://public.tableau.com/app/profile/cara.li/viz/FinalProjectTableauWorkbook_16294056513360/LocationvsCountofIncident?publish=yes)
+This is the link to [Tableau DashBoard](https://github.com/Jatin6004/Group1_Final_Project/blob/main/Documents/FinalProject%20Tableau%20Report.pdf)
