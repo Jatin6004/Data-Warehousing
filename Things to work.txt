@@ -1,0 +1,3 @@
+- add s3 in python scripts
+- presentation
+- final report
