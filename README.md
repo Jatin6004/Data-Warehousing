@@ -15,14 +15,14 @@ All datasets are stored in **S3 public bucket "infoach-final-project-group1"** o
 **S3, RDS, VPC, IAM, PythonScripts**
 
 ## Fianl Report & Presentation
-This is the [Fianl Project Report](https://github.com/xiaolancara/AWS-Final-Project/blob/main/InteriumDocuments/Final%20Project%20Report.pdf)
+This is the [Fianl Project Report]( add links here)
 
-This is the [Presentation File](https://github.com/xiaolancara/AWS-Final-Project/blob/main/InteriumDocuments/Final%20Project%20Presentation.pdf)
+This is the [Presentation File]( add links here)
 
 
 **Data WareHouse:**
 
-![Data WareHouse](https://github.com/xiaolancara/AWS-Final-Project/blob/main/InteriumDocuments/Data%20Warehouse%20ER.png)
+![Data WareHouse](https://github.com/Jatin6004/Group1_Final_Project/blob/main/Dataset_Resources/FINAL_PROJECT_OLAP_REVERSE%20ENGINEERING%20DIAGRAM.png)
 
 ## Tableau Analysis
 This is the link to [Tableau DashBoard](https://github.com/Jatin6004/Group1_Final_Project/blob/main/Documents/FinalProject%20Tableau%20Report.pdf)
