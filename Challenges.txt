@@ -1,4 +1,0 @@
-- database connection issues (Glue crawler to AWS/MySQL RDS)
-- merging car crahses data with traffic violation data since car crashes is updated on daily basis whereas 
-traffic violation is monthly consolidation report.
- 
