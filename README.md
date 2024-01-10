@@ -14,11 +14,6 @@ All datasets are stored in **S3 public bucket "infoach-final-project-group1"** o
 ## Using following AWS services to implement the whole project:
 **S3, RDS, VPC, IAM, PythonScripts**
 
-## Final Report & Presentation
-This is the [Presentation File](https://github.com/Jatin6004/Group1_Final_Project/blob/main/Documents/Information%20Architecture_%20Final%20Project.pptx)
-
-This is the [Final Project Report]( https://github.com/Jatin6004/Group1_Final_Project/blob/main/Documents/FinalProject%20Tableau%20Report.pdf)
-
 
 **Data WareHouse:**
 
