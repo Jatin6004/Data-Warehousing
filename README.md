@@ -9,7 +9,7 @@ Dataset 2 (Motor Vehicle Collisions - Crashes data): obtained from https://data.
 All datasets are stored in **S3 public bucket "infoach-final-project-group1"** on AWS cloud.
 
 ## AWS Architecture
-![Architecture](https://github.com/Jatin6004/Group1_Final_Project/blob/main/Documents/Final%20Project%20AWS%20Architechture%20work%20flow.png)
+![Architecture](https://github.com/Jatin6004/Data-Warehousing/blob/main/Documents/AWS%20Architechture%20work%20flow.png)
 
 ## Using following AWS services to implement the whole project:
 **S3, RDS, VPC, IAM, PythonScripts**
