@@ -17,7 +17,7 @@ All datasets are stored in **S3 public bucket "infoach-final-project-group1"** o
 
 **Data WareHouse:**
 
-![Data WareHouse](https://github.com/Jatin6004/Group1_Final_Project/blob/main/Dataset_Resources/FINAL_PROJECT_OLAP_REVERSE%20ENGINEERING%20DIAGRAM.png)
+![Data WareHouse](https://github.com/Jatin6004/Data-Warehousing/blob/main/Documents/OLAP_REVERSE%20ENGINEERING%20DIAGRAM.png)
 
 ## Tableau Analysis
 This is the link to [Tableau DashBoard](https://github.com/Jatin6004/Group1_Final_Project/blob/main/Documents/FinalProject%20Tableau%20Report.pdf)
